@@ -109,7 +109,7 @@ export default function Index() {
               <img
                 src="https://cdn.poehali.dev/files/8643bde8-6a6e-4c56-9066-2ed36574767e.PNG"
                 alt="Карточки Knowledge и Action"
-                className="relative rounded-3xl shadow-2xl w-full animate-float"
+                className="relative rounded-3xl shadow-2xl w-full animate-float py-[134px] px-0 mx-[33px] my-[238px]"
               />
             </div>
           </div>
