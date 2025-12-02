@@ -69,12 +69,11 @@ export default function Index() {
               <Badge className="bg-gradient-to-r from-primary to-secondary text-white border-0 text-lg px-4 py-2">
                 Образовательная игра 🎓
               </Badge>
-              <h1 className="text-5xl md:text-7xl font-black leading-tight">
-                Truth or <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-secondary to-accent">Knowledge</span>
-              </h1>
-              <p className="text-xl text-muted-foreground leading-relaxed">
-                Изучайте английский язык весело и эффективно! Игра, которая превращает обучение в приключение.
-              </p>
+              <h1 className="md:text-7xl leading-tight text-emerald-400 text-5xl font-black text-center mx-0">The game of 
+«knowledge or action»
+
+</h1>
+              <p className="text-xl text-muted-foreground leading-relaxed">Learn subjects in a fun and effective way! A game that turns learning into an adventure.</p>
               
               <div className="flex flex-wrap gap-4 pt-4">
                 <div className="flex items-center gap-2 bg-card border-2 border-primary/20 rounded-xl px-6 py-3">
