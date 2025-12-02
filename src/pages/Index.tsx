@@ -95,7 +95,7 @@ export default function Index() {
               <div className="flex gap-4 pt-4">
                 <Button 
                   size="lg" 
-                  className="bg-gradient-to-r from-primary to-secondary hover:opacity-90 text-white font-bold text-lg px-8"
+                  className="bg-gradient-to-r from-blue-500 to-cyan-400 hover:opacity-90 text-white font-bold text-lg px-8"
                   onClick={() => scrollToSection('rules')}
                 >
                   Узнать правила
