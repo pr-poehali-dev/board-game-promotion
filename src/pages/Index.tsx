@@ -337,9 +337,8 @@ export default function Index() {
                     <div className="text-sm text-muted-foreground">Хотят играть ещё!</div>
                   </div>
                 </div>
-                <p className="text-muted-foreground text-lg pt-4">
-                  Протестировано на 10 студентах. Повышенная активность на занятии и лучшее запоминание материала.
-                </p>
+                <p className="text-muted-foreground text-lg pt-4">Протестировано на 20 студентах. 
+Повышенная активность на занятии и лучшее запоминание материала.</p>
               </CardContent>
             </Card>
           </div>
