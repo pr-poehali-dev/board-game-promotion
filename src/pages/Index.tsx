@@ -66,7 +66,7 @@ export default function Index() {
         <div className="container mx-auto">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6 animate-fade-in">
-              <Badge className="bg-gradient-to-r from-emerald-400 to-cyan-400 text-white border-0 text-lg px-4 py-2">
+              <Badge className="bg-gradient-to-r from-blue-500 to-cyan-400 text-white border-0 text-lg px-4 py-2">
                 Образовательная игра 🎓
               </Badge>
               <h1 className="md:text-7xl leading-tight text-emerald-400 text-5xl font-black text-center mx-0">The game of 
