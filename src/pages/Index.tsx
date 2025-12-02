@@ -80,14 +80,14 @@ export default function Index() {
                 <div className="flex items-center gap-2 bg-card border-2 border-primary/20 rounded-xl px-6 py-3">
                   <Icon name="Users" size={24} className="text-primary" />
                   <div>
-                    <div className="font-bold text-lg">3-6 игроков</div>
+                    <div className="font-bold text-lg">от 2-х игроков</div>
                     <div className="text-sm text-muted-foreground">Для компании</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-2 bg-card border-2 border-secondary/20 rounded-xl px-6 py-3">
                   <Icon name="Star" size={24} className="text-secondary" />
                   <div>
-                    <div className="font-bold text-lg">12+ лет</div>
+                    <div className="font-bold text-lg">99+ </div>
                     <div className="text-sm text-muted-foreground">Возраст</div>
                   </div>
                 </div>
