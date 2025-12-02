@@ -107,8 +107,8 @@ export default function Index() {
             <div className="relative animate-scale-in">
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-3xl blur-3xl"></div>
               <img
-                src="https://cdn.poehali.dev/files/5c8c4aad-22c1-49c5-aded-a22019f77eae.PNG"
-                alt="Примеры игровых карт Knowledge и Action"
+                src="https://cdn.poehali.dev/files/8643bde8-6a6e-4c56-9066-2ed36574767e.PNG"
+                alt="Карточки Knowledge и Action"
                 className="relative rounded-3xl shadow-2xl w-full animate-float"
               />
             </div>
