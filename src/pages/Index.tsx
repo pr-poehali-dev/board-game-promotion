@@ -108,8 +108,8 @@ export default function Index() {
             <div className="relative animate-scale-in">
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-3xl blur-3xl"></div>
               <img
-                src="https://cdn.poehali.dev/projects/89ab895b-bf11-4ad9-87ec-56974a48062c/files/71fe8d09-3633-4d1f-8b20-f1f6a0317daf.jpg"
-                alt="Truth or Knowledge Game"
+                src="https://cdn.poehali.dev/files/5c8c4aad-22c1-49c5-aded-a22019f77eae.PNG"
+                alt="Примеры игровых карт Knowledge и Action"
                 className="relative rounded-3xl shadow-2xl w-full animate-float"
               />
             </div>
