@@ -225,9 +225,7 @@ export default function Index() {
                     <Icon name="Brain" size={28} className="text-white" />
                   </div>
                   <h3 className="text-2xl font-bold">Knowledge карты</h3>
-                  <p className="text-muted-foreground">
-                    Ответьте на вопрос на английском языке
-                  </p>
+                  <p className="text-muted-foreground">Ответьте на вопрос </p>
                   <div className="bg-background/80 rounded-xl p-4 italic border-l-4 border-primary">
                     "Переведи слово apple"
                   </div>
@@ -240,9 +238,7 @@ export default function Index() {
                     <Icon name="Zap" size={28} className="text-white" />
                   </div>
                   <h3 className="text-2xl font-bold">Action карты</h3>
-                  <p className="text-muted-foreground">
-                    Выполните задание на английском
-                  </p>
+                  <p className="text-muted-foreground">Выполните задание </p>
                   <div className="bg-background/80 rounded-xl p-4 italic border-l-4 border-secondary">
                     "Name 3 objects in your room"
                   </div>
@@ -264,9 +260,7 @@ export default function Index() {
               </AccordionItem>
 
               <AccordionItem value="item-2" className="border-2 rounded-xl px-6">
-                <AccordionTrigger className="text-lg font-semibold hover:text-primary">
-                  Нужен ли высокий уровень английского?
-                </AccordionTrigger>
+                <AccordionTrigger className="text-lg font-semibold hover:text-primary">Нужен ли высокий уровень знаний?</AccordionTrigger>
                 <AccordionContent className="text-muted-foreground">
                   Нет! Игра подходит для среднего уровня (A2-B1). Карты разной сложности, поэтому каждый найдёт подходящие задания.
                 </AccordionContent>
