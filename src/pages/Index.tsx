@@ -356,9 +356,7 @@ export default function Index() {
           <p className="text-muted-foreground">
             Игра повышает мотивацию, помогает учить новые слова и делает обучение интересным и эффективным.
           </p>
-          <p className="text-sm text-muted-foreground">
-            © 2024 Truth or Knowledge. Образовательный проект.
-          </p>
+          <p className="text-sm text-muted-foreground">© 2025 Truth or Knowledge. Образовательный проект Макаренко К.</p>
         </div>
       </footer>
     </div>
